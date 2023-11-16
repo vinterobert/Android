@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">RecipesApp</string>
+    <string name="none">None</string>
+    <string name="namePlaceHolder">Please enter your name\n</string>
+    <string name="startButtonText">Start</string>
+    <string name="welcome">Welcome</string>
+    <string name="to_the_recipehub">to the RecipeHub</string>
+    <string name="get_started">Get started</string>
+    <string name="descriptionText">Where you can find the best recipes and\n\t\t\t tips to enjoy a culinary experience</string>
 </resources>
